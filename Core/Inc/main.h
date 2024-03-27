@@ -91,6 +91,7 @@ void Error_Handler(void);
 #define WIFI_RX_GPIO_Port GPIOB
 #define WIFI_EN_Pin GPIO_PIN_5
 #define WIFI_EN_GPIO_Port GPIOB
+
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
